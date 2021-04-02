@@ -102,6 +102,7 @@ body {
 .onboard-summary-img img {
   width: 100%;
   height: 100%;
+  cursor: grab;
 }
 
 .social-media {
